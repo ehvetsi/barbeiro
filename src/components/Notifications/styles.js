@@ -68,8 +68,10 @@ export const Notification = styled.div`
     }
 
     time {
+        display: block;
         font-size: 12px;
         opacity: 0.6;
+        margin-bottom: 5px;
     }
 
     button {
